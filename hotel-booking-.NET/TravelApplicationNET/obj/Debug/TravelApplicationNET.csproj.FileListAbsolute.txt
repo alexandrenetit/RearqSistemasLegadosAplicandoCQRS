@@ -1,0 +1,2 @@
+D:\Cursos\EmergingCode\RearqSistemasLegadosAplicandoCQRS\hotel-booking-.NET\TravelApplicationNET\obj\Debug\TravelApplicationNET.csprojAssemblyReference.cache
+D:\Cursos\EmergingCode\RearqSistemasLegadosAplicandoCQRS\hotel-booking-.NET\TravelApplicationNET\obj\Debug\TravelApplicationNET.csproj.CoreCompileInputs.cache
